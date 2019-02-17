@@ -1,0 +1,28 @@
+
+body{
+    margin: 0;
+    background: #3c3c3c;
+}
+div{
+    width: 70%;
+    margin: auto;
+}
+table{
+	width: 100%;
+	background: #232323;
+	border-collapse: collapse;
+	margin-top: 60px;
+	color: #e2dfdf;
+}
+tr{
+    text-align: center;
+}
+th{
+    font-size: 22px;
+    background: #4c4c4c;
+    padding: 10px;
+}
+td{
+    font-size: 18px;
+    padding: 10px;
+}
